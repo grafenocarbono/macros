@@ -1,0 +1,11 @@
+let numero;
+numero = 28;
+console.log(numero);
+numero++;
+console.log(numero);
+numero = numero + 1;
+console.log(numero);
+numero--;
+console.log(numero);
+numero = numero -1;
+console.log(numero);
